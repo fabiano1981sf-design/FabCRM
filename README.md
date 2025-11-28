@@ -17,8 +17,8 @@ Certifique-se de que seu ambiente de hospedagem atende aos seguintes requisitos:
 ## 2. Configuração dos Arquivos do Sistema
 
 1.  **Descompactar os Arquivos:**
-    *   Descompacte o arquivo `sistema_corrigido.zip` que você recebeu.
-    *   Você encontrará os arquivos principais (`index.php`, `core.php`, `Bancodedados.sql`) e a pasta `views`.
+    *   Descompacte o arquivo `FabCRM.zip` que você recebeu.
+    *   Você encontrará os arquivos principais (`index.php`, `core.php`, `teste2.sql`) e a pasta `views`.
 
 2.  **Transferir para o Servidor:**
     *   Transfira todos os arquivos e pastas descompactados para o diretório raiz do seu servidor web (ex: `htdocs`, `www` ou `public_html`).
@@ -58,7 +58,7 @@ Após a conclusão dos passos 2 e 3, o sistema estará pronto para uso.
     *   Abra seu navegador e acesse a URL onde você instalou os arquivos (ex: `http://localhost/` ou `http://seusistema.com.br/`).
 
 2.  **Credenciais de Acesso (Administrador Padrão):**
-    *   O arquivo `Bancodedados.sql` inclui um usuário administrador padrão para o primeiro acesso:
+    *   O arquivo `teste2.sql` inclui um usuário administrador padrão para o primeiro acesso:
         *   **Email:** `fabiano@fabiano.com.br`
         *   **Senha:** `admin@admin` .
 
